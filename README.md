@@ -34,7 +34,7 @@ OpenGameArt (opengameart.org)
 Created by Denis Moura
 <a href = https://www.github.com/mouradap>github.com/mouradap</a>
 
-Following <a href = https://www.youtube.com/watch?v=WbmHcbcSwnA&t=2958s >Tutorial by Programador Sagaz on YouTube</a>
+Following Tutorial by Programador Sagaz on YouTube (https://www.youtube.com/watch?v=WbmHcbcSwnA&t=2958s)
 
 December, 20th 2019
 
